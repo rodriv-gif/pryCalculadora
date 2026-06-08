@@ -10,5 +10,7 @@ namespace pryCalculadora
     {
         public float Numero1;
         public float Numero2;
+
+        public float Numero3;
     }
 }
